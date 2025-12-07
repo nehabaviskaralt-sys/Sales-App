@@ -1,0 +1,7 @@
+{
+  "name": "GAIMvantage: Sales Intel",
+  "description": "AI Revenue Intelligence & Performance Coach for sales teams.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
